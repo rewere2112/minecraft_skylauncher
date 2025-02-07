@@ -1,0 +1,451 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "Wolfram"
+    },
+    "Mods Vs Maps": {
+      "name": "Mods Vs Maps",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.modsvsmaps",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "allowedReleaseTypes": [
+        "old_beta",
+        "release",
+        "snapshot",
+        "old_alpha"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Epic Lucky Block Mod": {
+      "name": "Epic Lucky Block Mod",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.epicluckyblocks",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_31\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "old_alpha",
+        "snapshot",
+        "old_beta",
+        "release"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "jtrent238 3": {
+      "name": "jtrent238 3",
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_alpha",
+        "old_beta",
+        "release"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Copy of Challange Games": {
+      "name": "Copy of Challange Games",
+      "gameDir": "C:\\Users\\trent\\Desktop\\.minecraft.challangegames",
+      "lastVersionId": "1.7.10-Forge10.13.2.1291",
+      "javaDir": "C:\\Users\\Trent\\Desktop\\runtime\\jre-x32\\1.8.0_25\\bin\\javaw.exe",
+      "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_beta",
+        "release",
+        "old_alpha"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "jtrent238 2": {
+      "name": "jtrent238 2",
+      "lastVersionId": "1.7.9",
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "MCreator ModPack/": {
+      "name": "MCreator ModPack/",
+      "lastVersionId": "pelican",
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_alpha",
+        "release",
+        "old_beta"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Modded Adventures": {
+      "name": "Modded Adventures",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.moddedaventure",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_31\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "release",
+        "old_alpha",
+        "old_beta",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "HardCore": {
+      "name": "HardCore",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.hardcore",
+      "lastVersionId": "1.6.4-MITE",
+      "javaDir": "C:\\Program Files\\Java\\jdk1.8.0_31\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "old_alpha",
+        "release",
+        "snapshot",
+        "old_beta"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Server Craft": {
+      "name": "Server Craft",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.serverplay",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_31\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "release",
+        "old_alpha",
+        "old_beta",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Minecraft Lets Play": {
+      "name": "Minecraft Lets Play",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.letsplaymaps",
+      "lastVersionId": "1.7.2"
+    },
+    "jtrent238": {
+      "name": "jtrent238",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft",
+      "lastVersionId": "1.7.5",
+      "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_alpha",
+        "old_beta",
+        "release"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "TEST": {
+      "name": "TEST",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.test",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_31\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "old_alpha",
+        "old_beta",
+        "release",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Mod Reviews": {
+      "name": "Mod Reviews",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.modreviews",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "allowedReleaseTypes": [
+        "old_beta",
+        "release",
+        "old_alpha",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "New Challange Games": {
+      "name": "New Challange Games",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.newchallangegames",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_40\\bin\\javaw.exe",
+      "resolution": {
+        "width": 854,
+        "height": 480
+      },
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_beta",
+        "old_alpha",
+        "release"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Default Profile": {
+      "name": "Default Profile",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_40\\bin\\javaw.exe",
+      "allowedReleaseTypes": [
+        "old_beta",
+        "release",
+        "snapshot",
+        "old_alpha"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Copy of jtrent238 3": {
+      "name": "Copy of jtrent238 3",
+      "lastVersionId": "1.8.6"
+    },
+    "Challange Games": {
+      "name": "Challange Games",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.challangegames",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Users\\Trent\\Desktop\\runtime\\jre-x32\\1.8.0_25\\bin\\javaw.exe",
+      "javaArgs": "-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "allowedReleaseTypes": [
+        "old_beta",
+        "snapshot",
+        "release",
+        "old_alpha"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Agrarian Skies 2": {
+      "name": "Agrarian Skies 2",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\Agrarian Skies 2",
+      "lastVersionId": "1.7.5"
+    },
+    "HACKER": {
+      "name": "HACKER",
+      "lastVersionId": "Wurst",
+      "allowedReleaseTypes": [
+        "old_alpha",
+        "snapshot",
+        "release",
+        "old_beta"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "Emerald Dimensions": {
+      "name": "Emerald Dimensions",
+      "gameDir": "C:\\Users\\Trent\\AppData\\Roaming\\.minecraft.emeralddimensions",
+      "lastVersionId": "1.7.10-Forge10.13.3.1401-1710ls",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_40\\bin\\javaw.exe",
+      "resolution": {
+        "width": 854,
+        "height": 480
+      },
+      "allowedReleaseTypes": [
+        "snapshot",
+        "old_beta",
+        "old_alpha",
+        "release"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    }
+  },
+  "selectedProfile": "jtrent238 3",
+  "clientToken": "650ccf99-9177-49ac-be12-bfac6c3ba3ae",
+  "authenticationDatabase": {
+    "7572a985adec391a82f12122bd65ef33": {
+      "displayName": "�2HA�4CK�6ER",
+      "accessToken": "null",
+      "userid": "�2HA�4CK�6ER",
+      "uuid": "7572a985-adec-391a-82f1-2122bd65ef33",
+      "username": "�2HA�4CK�6ER"
+    },
+    "3a615d50176532c8af26bb8bd761ace2": {
+      "displayName": "�l�o�ajtrent238",
+      "accessToken": "null",
+      "userid": "�l�o�ajtrent238",
+      "uuid": "3a615d50-1765-32c8-af26-bb8bd761ace2",
+      "username": "�l�o�ajtrent238"
+    },
+    "cc99bcd706ba3cd997b806aa33cf86e4": {
+      "displayName": "�k�40000000",
+      "accessToken": "null",
+      "userid": "�k�40000000",
+      "uuid": "cc99bcd7-06ba-3cd9-97b8-06aa33cf86e4",
+      "username": "�k�40000000"
+    },
+    "24d55799d43b3c56928b227dab8f34da": {
+      "displayName": "�2�k|| HACKER �k||",
+      "accessToken": "null",
+      "userid": "�2�k|| HACKER �k||",
+      "uuid": "24d55799-d43b-3c56-928b-227dab8f34da",
+      "username": "�2�k|| HACKER �k||"
+    },
+    "1bc60c54b41d31d6bd865409e56814ac": {
+      "displayName": "�2�k|| �r�2HACKER �k||",
+      "accessToken": "null",
+      "userid": "�2�k|| �r�2HACKER �k||",
+      "uuid": "1bc60c54-b41d-31d6-bd86-5409e56814ac",
+      "username": "�2�k|| �r�2HACKER �k||"
+    },
+    "641b3ed8b27a39ad8d108f32f89a1573": {
+      "displayName": "�6HACKER�6666",
+      "accessToken": "null",
+      "userid": "�6HACKER�6666",
+      "uuid": "641b3ed8-b27a-39ad-8d10-8f32f89a1573",
+      "username": "�6HACKER�6666"
+    },
+    "dc58876a782f3092a7a7c22ca4fc7707": {
+      "displayName": "�k�4HACKER",
+      "accessToken": "null",
+      "userid": "�k�4HACKER",
+      "uuid": "dc58876a-782f-3092-a7a7-c22ca4fc7707",
+      "username": "�k�4HACKER"
+    },
+    "0523f3ea2036398691e0cd6006ecca1f": {
+      "displayName": "�k| �8Dan�9TDM �k|",
+      "accessToken": "null",
+      "userid": "�k| �8Dan�9TDM �k|",
+      "uuid": "0523f3ea-2036-3986-91e0-cd6006ecca1f",
+      "username": "�k| �8Dan�9TDM �k|"
+    },
+    "12abfd6ad1393a70974df2e2e23889bb": {
+      "displayName": "�6Dan�8TDM",
+      "accessToken": "null",
+      "userid": "�6Dan�8TDM",
+      "uuid": "12abfd6a-d139-3a70-974d-f2e2e23889bb",
+      "username": "�6Dan�8TDM"
+    },
+    "e2457d7eaa1235aea15b64c794681dda": {
+      "displayName": "�k| �8DanTDM �k|",
+      "accessToken": "null",
+      "userid": "�k| �8DanTDM �k|",
+      "uuid": "e2457d7e-aa12-35ae-a15b-64c794681dda",
+      "username": "�k| �8DanTDM �k|"
+    },
+    "�6HACKER�6666": {
+      "displayName": "�6HACKER�6666",
+      "accessToken": "null",
+      "userid": "�6HACKER�6666",
+      "uuid": "641b3ed8-b27a-39ad-8d10-8f32f89a1573",
+      "username": "�6HACKER�6666"
+    },
+    "ebd8e28a74653533a3dfa8c6398a0eed": {
+      "displayName": "�6HACKER???",
+      "accessToken": "null",
+      "userid": "�6HACKER???",
+      "uuid": "ebd8e28a-7465-3533-a3df-a8c6398a0eed",
+      "username": "�6HACKER???"
+    },
+    "�k| �3| �7Dan�8TDM �3| �k|": {
+      "displayName": "�k| �3| �7Dan�8TDM �3| �k|",
+      "accessToken": "null",
+      "userid": "�k| �3| �7Dan�8TDM �3| �k|",
+      "uuid": "d1957c45-9bc7-372a-b103-4032a403fc75",
+      "username": "�k| �3| �7Dan�8TDM �3| �k|"
+    },
+    "�6Dan�8TDM": {
+      "displayName": "�6Dan�8TDM",
+      "accessToken": "null",
+      "userid": "�6Dan�8TDM",
+      "uuid": "12abfd6a-d139-3a70-974d-f2e2e23889bb",
+      "username": "�6Dan�8TDM"
+    },
+    "demo-ed5a386bb40aeb5e7f6c401d81dbee51": {
+      "accessToken": "ffb1c60530424721b1b2154aba6f2312",
+      "userid": "ed5a386bb40aeb5e7f6c401d81dbee51",
+      "username": "tpatterson336@gmail.com"
+    },
+    "d1957c459bc7372ab1034032a403fc75": {
+      "displayName": "�k| �3| �7Dan�8TDM �3| �k|",
+      "accessToken": "null",
+      "userid": "�k| �3| �7Dan�8TDM �3| �k|",
+      "uuid": "d1957c45-9bc7-372a-b103-4032a403fc75",
+      "username": "�k| �3| �7Dan�8TDM �3| �k|"
+    },
+    "�6HACKER???": {
+      "displayName": "�6HACKER???",
+      "accessToken": "null",
+      "userid": "�6HACKER???",
+      "uuid": "ebd8e28a-7465-3533-a3df-a8c6398a0eed",
+      "username": "�6HACKER???"
+    },
+    "dded3a30a912374c83fd25d671a65efa": {
+      "displayName": "jtrnet238",
+      "accessToken": "null",
+      "userid": "jtrnet238",
+      "uuid": "dded3a30-a912-374c-83fd-25d671a65efa",
+      "username": "jtrnet238"
+    },
+    "3930179c07fa35ad90680aafd8868c4d": {
+      "displayName": "�2DanTDM",
+      "accessToken": "null",
+      "userid": "�2DanTDM",
+      "uuid": "3930179c-07fa-35ad-9068-0aafd8868c4d",
+      "username": "�2DanTDM"
+    },
+    "3fae30a593293522a7261c2a5e11ea34": {
+      "displayName": "�2H�3A�4C�8K�6E�1R",
+      "accessToken": "null",
+      "userid": "�2H�3A�4C�8K�6E�1R",
+      "uuid": "3fae30a5-9329-3522-a726-1c2a5e11ea34",
+      "username": "�2H�3A�4C�8K�6E�1R"
+    },
+    "d0aa7878191031a7b109932cee82b91a": {
+      "displayName": "�k? �2HACKER �k?",
+      "accessToken": "null",
+      "userid": "�k? �2HACKER �k?",
+      "uuid": "d0aa7878-1910-31a7-b109-932cee82b91a",
+      "username": "�k? �2HACKER �k?"
+    },
+    "�2HA�4CK�6ER": {
+      "displayName": "�2HA�4CK�6ER",
+      "accessToken": "null",
+      "userid": "�2HA�4CK�6ER",
+      "uuid": "7572a985-adec-391a-82f1-2122bd65ef33",
+      "username": "�2HA�4CK�6ER"
+    },
+    "f2e5441bffa2338ab7648f449233734a": {
+      "displayName": "�2jtrent�4238",
+      "accessToken": "null",
+      "userid": "�2jtrent�4238",
+      "uuid": "f2e5441b-ffa2-338a-b764-8f449233734a",
+      "username": "�2jtrent�4238"
+    },
+    "jtrent238": {
+      "displayName": "jtrent238",
+      "accessToken": "null",
+      "userid": "jtrent238",
+      "uuid": "694f1078-5cb5-3f27-b084-08d6043f998f",
+      "username": "jtrent238"
+    },
+    "�2DanTDM": {
+      "displayName": "�2DanTDM",
+      "accessToken": "null",
+      "userid": "�2DanTDM",
+      "uuid": "3930179c-07fa-35ad-9068-0aafd8868c4d",
+      "username": "�2DanTDM"
+    },
+    "�7j�5t�6r�2e�3n�1t�62�43�98": {
+      "displayName": "�7j�5t�6r�2e�3n�1t�62�43�98",
+      "accessToken": "null",
+      "userid": "�7j�5t�6r�2e�3n�1t�62�43�98",
+      "uuid": "f3e0337c-84c4-3bc1-9826-b93861644868",
+      "username": "�7j�5t�6r�2e�3n�1t�62�43�98"
+    },
+    "f3e0337c84c43bc19826b93861644868": {
+      "displayName": "�7j�5t�6r�2e�3n�1t�62�43�98",
+      "accessToken": "null",
+      "userid": "�7j�5t�6r�2e�3n�1t�62�43�98",
+      "uuid": "f3e0337c-84c4-3bc1-9826-b93861644868",
+      "username": "�7j�5t�6r�2e�3n�1t�62�43�98"
+    },
+    "9e3baa2f16f039719d7978cc997042de": {
+      "displayName": "�k0000000",
+      "accessToken": "null",
+      "userid": "�k0000000",
+      "uuid": "9e3baa2f-16f0-3971-9d79-78cc997042de",
+      "username": "�k0000000"
+    },
+    "962338d78deb47c3b144f64eab941480": {
+      "displayName": "jtrent238",
+      "accessToken": "null",
+      "userid": "449d8bb773770156031ed53f05faeda7",
+      "uuid": "962338d7-8deb-47c3-b144-f64eab941480",
+      "username": "jtrent238@outlook.com"
+    },
+    "jtrent238_is_Back": {
+      "displayName": "jtrent238_is_Back",
+      "accessToken": "null",
+      "userid": "jtrent238_is_Back",
+      "uuid": "d78aa052-8482-3bb9-a1aa-18d121786fda",
+      "username": "jtrent238_is_Back"
+    }
+  },
+  "selectedUser": "962338d78deb47c3b144f64eab941480",
+  "launcherVersion": {
+    "name": "1.6.13",
+    "format": 17
+  }
+}
